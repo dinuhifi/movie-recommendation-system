@@ -1,1 +1,0 @@
-API_KEY = "&apikey=834681eb"
